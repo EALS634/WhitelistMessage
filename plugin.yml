@@ -1,0 +1,6 @@
+name: WhitelistMessage
+main: WhitelistMessage\Main
+version: 1.0.0
+api: [3.0.0-ALPHA10]
+load: POSTWORLD
+description: ホワイトリストのメッセージを変更
